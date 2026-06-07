@@ -7,13 +7,6 @@
     "updatedAt": "2026-06-07T05:25:47.815Z"
   },
   {
-    "id": 2,
-    "createdAt": "2026-06-07T04:28:07.726Z",
-    "updatedAt": "2026-06-07T05:31:26.616Z",
-    "description": "Fix description",
-    "status": "in-progress"
-  },
-  {
     "id": 3,
     "description": "eat",
     "status": "todo",
