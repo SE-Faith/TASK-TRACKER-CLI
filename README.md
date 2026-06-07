@@ -65,13 +65,13 @@ node index.js delete 1
 ### Mark task as in-progress
 
 ```bash
-node index.js mark-in-progress 1
+node index.js mark 1 in-progress
 ```
 
 ### Mark task as done
 
 ```bash
-node index.js mark-done 1
+node index.js mark 1 done
 ```
 
 ### List all tasks
@@ -83,9 +83,9 @@ node index.js list
 ### Filter tasks by status
 
 ```bash
-node index.js list done
-node index.js list todo
-node index.js list in-progress
+node index.js list-by done
+node index.js list-by todo
+node index.js list-by in-progress
 ```
 
 ---
